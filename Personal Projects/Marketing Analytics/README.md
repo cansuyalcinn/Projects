@@ -1,4 +1,4 @@
-# Marketing Analysis
+#  Marketing Analytics
 
 This project aims to perform EDA, Statistical Analysis, and Data Visualizations in order to determine,
 1. Customer profiles
