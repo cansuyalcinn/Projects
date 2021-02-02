@@ -6,11 +6,11 @@ The project consists of 3 parts
 
 #### part 1: Number of faces in a picture and the location of each face. 
 
-![Number of faces and locations](Images/part-1.PNG)
+![Number of faces and locations](Images/part1.PNG)
 
 #### part 2: Face Landmark Estimation and Face Alignment.
 
-![Face Landmark Estimation and Face Alignment](Images/part-2.PNG)
+![Face Landmark Estimation and Face Alignment](Images/part2.PNG)
 
 #### part 3: Face Encoding and Deep Metric Learning. Training with a person's different picture then finding it in other picture. 
 
