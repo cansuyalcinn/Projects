@@ -2,7 +2,7 @@
 
 This project contains the fundamentals of the face recognition. Since I have a special interest in this subject, I created my own small-scale dataset and implemented it. I shared my codes from my linkedIn account for people who are interested in face recognition applications and want to start.
 
-The project consists of 3 parts
+### The project consists of 3 parts
 
 #### part 1: Number of faces in a picture and the location of each face. 
 
