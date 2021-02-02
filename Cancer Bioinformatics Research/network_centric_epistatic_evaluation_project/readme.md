@@ -1,6 +1,6 @@
 # Project Overview
 
-### This is a concise repository for [The Epistasis project codes](https://gitlab.com/cansuyalcin/projects_portfolio/-/tree/master/Cancer%20Bioinformatics%20Research "Research"). Codes can be found in the [link](https://gitlab.com/cansuyalcin/projects_portfolio/-/tree/master/Cancer%20Bioinformatics%20Research "Research")
+### This is a concise repository for [The Epistasis project codes](https://gitlab.com/cansuyalcin/projects_portfolio/-/tree/master/Cancer%20Bioinformatics%20Research "Research"). The codes can be found in the [link](https://gitlab.com/cansuyalcin/projects_portfolio/-/tree/master/Cancer%20Bioinformatics%20Research "Research")
 
 In this project we experimented with many ideas, factors and parameters. A lot of them are not relevant for the final paper. This version of the project contains the latest analyzes made so far. 
 
