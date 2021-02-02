@@ -9,6 +9,8 @@ This project aims to perform EDA, Statistical Analysis, and Data Visualizations 
 ## Resources
 
 Data: The data is gotten from [Kaggle](https://www.kaggle.com/jackdaoud/marketing-data "Kaggle data")
+Python version: 3.7
+Packages: pandas, numpy, sklearn, seaborn, Matplotlib
 
 ## What you will find in this [notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/Marketing%20Analytics/Marketing_Analytics.ipynb "notebook")
 
@@ -36,10 +38,8 @@ Data: The data is gotten from [Kaggle](https://www.kaggle.com/jackdaoud/marketin
 * spent 167 Dollars on Meat products
 * spent 37-43 Dollars on Fist and Gold Products
 
-
-![The relationship between children and total spent](Images/total_spent-children.PNG)
-
-![The relationship between Income and total spent](Images/total_spent-Income.png)
+![The relationship between Income and total spent](Images/total_spent-Income.png=250x)
+![The relationship between children and total spent](Images/total_spent-children.PNG==250x)
 
 ###Summary
 
@@ -51,4 +51,4 @@ Suggestion: Focus on group with high income and without children (or children<3)
 Suggestion: Specific campains for these products to increase sales.
 * The most succesful campain was the last one. (the last campain named as Response)
 
-![The success of campains](Images/response.PNG)
+![The success of campains](Images/response.PNG=250x)
