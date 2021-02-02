@@ -5,7 +5,9 @@ This is a Metal Surface Detection project detects scratches and dents on metal s
 # Resources
 
 **Data:** Data is collected from factories during the production of metal parts. 
+
 **Python version:** 3.7
+
 **Packages/software tools:** pandas, numpy, sklearn, tensorflow, keras, Google Colab, LabelImg
 
 # Conclusion
