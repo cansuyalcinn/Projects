@@ -1,8 +1,12 @@
-# This is a concise repository for the epistasis project codes. We experimented with many ideas, factors and parameters. A lot of them are not relevant for the final paper. This version of the project contains the latest analyzes made so far. 
+# Project Overview
 
-## The project involves evaluation of mutual exclusivity methods: Discover, Discover_strat, Fisher's Exact Test, MEGSA, MEMO and WExT. The results from these methods include pairwise mutual exclusivity p-values. Based on them, we apply our network centric epistatic evaluation.
+### This is a concise repository for [The Epistasis project codes](https://gitlab.com/cansuyalcin/projects_portfolio/-/tree/master/Cancer%20Bioinformatics%20Research "Research"). Codes can be found in the [link](https://gitlab.com/cansuyalcin/projects_portfolio/-/tree/master/Cancer%20Bioinformatics%20Research "Research")
 
-### Structure
+In this project we experimented with many ideas, factors and parameters. A lot of them are not relevant for the final paper. This version of the project contains the latest analyzes made so far. 
+
+### The project involves evaluation of mutual exclusivity methods: Discover, Discover_strat, Fisher's Exact Test, MEGSA, MEMO and WExT. The results from these methods include pairwise mutual exclusivity p-values. Based on them, we apply our network centric epistatic evaluation.
+
+# Structure of the Project
 
 #### 1. mutex_data: Includes all the input data such as mutual_exclusivity files, MLA files, PPI files etc. "{method}_mutation_filtered_ep_data" folder contains the MEX files.
 
