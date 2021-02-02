@@ -41,7 +41,7 @@ Packages: pandas, numpy, sklearn, seaborn, Matplotlib
 ![The relationship between Income and total spent](Images/total_spent-Income.png=250x)
 ![The relationship between children and total spent](Images/total_spent-children.PNG==250x)
 
-###Summary
+### Summary
 
 * Target customer profile, sales chanels and product preferences are determined.
 * Advertising campaign acceptance is negatively correlated with childrean (kids/teens) and positively correlated with having income. 
@@ -51,4 +51,4 @@ Suggestion: Focus on group with high income and without children (or children<3)
 Suggestion: Specific campains for these products to increase sales.
 * The most succesful campain was the last one. (the last campain named as Response)
 
-![The success of campains](Images/response.PNG=250x)
+![The success of campains](Images/response.PNG=100x20)
