@@ -12,4 +12,5 @@ This is a Metal Surface Detection project detects scratches and dents on metal s
 
 # Conclusion
 Defective areas were determined using image segmentation. Scratches and dents showed red and beige colors respectively. 
+
 ![Metal surface Detection](Images/image1.PNG)
