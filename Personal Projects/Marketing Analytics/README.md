@@ -8,11 +8,11 @@ This project aims to perform EDA, Statistical Analysis, and Data Visualizations 
 
 ## Resources
 
-*Data*: The data is gotten from [Kaggle](https://www.kaggle.com/jackdaoud/marketing-data "Kaggle data")
+**Data**: The data is gotten from [Kaggle](https://www.kaggle.com/jackdaoud/marketing-data "Kaggle data")
 
-*Python version*: 3.7
+**Python version**: 3.7
 
-*Packages*: pandas, numpy, sklearn, seaborn, Matplotlib
+**Packages**: pandas, numpy, sklearn, seaborn, Matplotlib
 
 ## What you will find in this [notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/Marketing%20Analytics/Marketing_Analytics.ipynb "notebook")
 
