@@ -10,7 +10,9 @@ The algorithms were used in the project and their accuracies and error rates:
 # Resources
 
 Data: The data is gotten from Kaggle.
+
 Python version: 3
+
 Packages/softwares: pandas, numpy, sklearn, seaborn, Matplotlib, Knime Analytics Platform
 
 Knime Analytics Platform-Algorithm design:
