@@ -19,4 +19,7 @@ Knime Analytics Platform-Algorithm design:
 
 ![Knime](Images/knime.PNG)
 
+# Conclusion
+
+In conclusion, the best model was Random Forest and it provided 86% accuracy.
 
