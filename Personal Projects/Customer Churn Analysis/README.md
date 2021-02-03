@@ -4,9 +4,9 @@ This project aimed to analyze the loss of customers by employing and comparing s
 
 ![The algorithms used](Images/algorithms.PNG "The algorithms were used")
 
-| ![Images/algorithms.PNG] | 
+| (Images/algorithms.PNG) | 
 |:--:| 
-| *The algorithms used* |
+| *The algorithms were used* |
 
 # Resources
 
