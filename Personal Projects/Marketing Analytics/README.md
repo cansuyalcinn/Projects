@@ -1,6 +1,6 @@
 #  Marketing Analytics : Project Overview
 
-This project aims to perform EDA, Statistical Analysis, and Data Visualizations in order to determine,
+This project aims to perform EDA, Statistical Analysis, Confidence interval and Data Visualizations in order to determine,
 1. Customer profiles
 2. Product preferences
 3. Campaign successes/failures
@@ -26,13 +26,13 @@ This project aims to perform EDA, Statistical Analysis, and Data Visualizations 
 
 **Target customer** in order to increase the sales,
 
-* Prefably has income between 50000-75000
+* Prefably has income between $51189-53265 based on 95% confidence interval. 
 * Has least amount of children. (0,1) possible.
-* for enrollment, 44 years old. Interval (40,50) is possible.
-* has income of approximately $52000
+* for enrollment, 44 (absolute mean) years old. The 95% confidence interval is (43.63, 44.61) years. 
+* has income of approximately $52000 (mean value)
 * was born in 1969
-* made a purchase 49 days ago
-* became customer 8 (2762 days) years ago.
+* made a purchase 49 (mean) days ago. The 95% confidence interval is (47.9, 50.3) days ago.
+* became customer 8 (2762 days) years ago. The 95% confidence interval is (2761.4, 2778.1) days.
 * made 2 deal purchase, 4 web purchase, made 2 catalog purchase, 5 store purchase,
 * visited web siste 5 times in a month
 * spent Over 300 Dollars on wine
