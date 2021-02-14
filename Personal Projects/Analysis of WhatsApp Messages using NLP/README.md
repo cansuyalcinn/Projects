@@ -7,11 +7,11 @@
 
 The [notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/Analysis%20of%20WhatsApp%20Messages%20using%20NLP/nlp_analysis_on_whatsapp_massages_cr.ipynb)"notebook" is available in here. 
 
-* The data contained time period between 08-10-2019 and 06-02-2021 overall 53895 lines of message data from Whatsapp app. 
+**Data**: The data contained time period between 08-10-2019 and 06-02-2021 overall 53895 lines of message data from Whatsapp app. 
 
-** Python version **  : 3.7
+**Python version**: 3.7
 
-** Packages ** : pandas, numpy, matplotlib, seaborn, wordcloud, PIL, io, sys, glob, os
+**Packages**: pandas, numpy, matplotlib, seaborn, wordcloud, PIL, io, sys, glob, os
 
 In the wordcloud part I get inspired from [francisatoyebi's](https://github.com/francisatoyebi/NLP---Whatsapp-Chat) work.
 
