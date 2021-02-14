@@ -10,6 +10,7 @@ The [notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/P
 * The data contained time period between 08-10-2019 and 06-02-2021 overall 53895 lines of message data from Whatsapp app. 
 
 ** Python version **  : 3.7
+
 ** Packages ** : pandas, numpy, matplotlib, seaborn, wordcloud, PIL, io, sys, glob, os
 
 In the wordcloud part I get inspired from [francisatoyebi's](https://github.com/francisatoyebi/NLP---Whatsapp-Chat) work.
@@ -18,10 +19,10 @@ In the wordcloud part I get inspired from [francisatoyebi's](https://github.com/
 
 The project determines,
 
-    * The most frequent messages sent for each person.
-    * The distribution of number of messages based on hours and months for each person.
-    * The comparison of the amount of messages based on texting hours and months for each person.
-    * The Wordcloud image 
+* The most frequent messages sent for each person.
+* The distribution of number of messages based on hours and months for each person.
+* The comparison of the amount of messages based on texting hours and months for each person.
+* The Wordcloud image 
 
 Based on hours, I was the one who send more messages almost every time interval exculiding the interval 2-5 am. 
 So now, it is easy to predict when Rafsan reply back based on this chart! 
@@ -30,5 +31,8 @@ The comparison of texting behaviours
 
 ![The comparison of texting behaviours ](Images/hours_counts.PNG)
 
+The Wordcloud image 
+
+![The Wordcloud image ](Images/wordcloud.PNG)
 
 
