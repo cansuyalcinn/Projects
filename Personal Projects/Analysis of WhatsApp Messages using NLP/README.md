@@ -5,7 +5,7 @@
 
 # **Code and Resources used**
 
-The [notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/Analysis%20of%20WhatsApp%20Messages%20using%20NLP/nlp_analysis_on_whatsapp_massages_cr.ipynb)"notebook" is available in here. 
+The [Notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/Analysis%20of%20WhatsApp%20Messages%20using%20NLP/nlp_analysis_on_whatsapp_massages_cr.ipynb) is available in here. 
 
 **Data**: The data contained time period between 08-10-2019 and 06-02-2021 overall 53895 lines of message data from Whatsapp app. 
 
