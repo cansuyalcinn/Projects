@@ -13,7 +13,7 @@ The [Notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/P
 
 **Packages**: pandas, numpy, matplotlib, seaborn, wordcloud, PIL, io, sys, glob, os
 
-In the wordcloud part I get inspired from [francisatoyebi's](https://github.com/francisatoyebi/NLP---Whatsapp-Chat) work.
+In the wordcloud part I got inspired from [francisatoyebi's](https://github.com/francisatoyebi/NLP---Whatsapp-Chat) work.
 
 # **Results**
 
