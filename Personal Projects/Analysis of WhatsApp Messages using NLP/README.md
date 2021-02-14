@@ -5,7 +5,7 @@
 
 # **Code and Resources used**
 
-The [notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/Marketing%20Analytics/Marketing_Analytics.ipynb "notebook" is available in here. 
+The [notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/Analysis%20of%20WhatsApp%20Messages%20using%20NLP/nlp_analysis_on_whatsapp_massages_cr.ipynb)"notebook" is available in here. 
 
 * The data contained time period between 08-10-2019 and 06-02-2021 overall 53895 lines of message data from Whatsapp app. 
 
@@ -28,6 +28,7 @@ So now, it is easy to predict when Rafsan reply back based on this chart!
 
 The comparison of texting behaviours
 
-![The comparison of texting behaviours ](Images/hours_counts.png)
+![The comparison of texting behaviours ](Images/hours_counts.PNG)
+
 
 
