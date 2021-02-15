@@ -1,38 +1,40 @@
-# **Analysis of WhatsApp Messages using NLP : Project Overview**
+# **RFM analysis for Customer Segmentation : Project Overview**
 
-* Performed Data analysis to determine texting behaviours for each person in a given real Whatsapp dataset.
-* The analysis included data cleaning, data visualizations and EDA to understand texting patterns for each person.
+* Performed Data analysis to determine Customer segments based on RFM (Recency, Frequency and Monetary) values of each customer.
+* The analysis included Data Understanding, Data Preprocessing, EDA and the Customer Segmentation using RFM calculations. 
+* The goal is to determine customer segments based on their purchasing behaviors. In this way, customized operations can be prepared for each segment.
+
+![](Images/rfm_chart.PNG)
 
 # **Code and Resources used**
 
-The [Notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/Analysis%20of%20WhatsApp%20Messages%20using%20NLP/nlp_analysis_on_whatsapp_massages_cr.ipynb) is available in here. 
+The [Notebook](https://gitlab.com/cansuyalcin/projects_portfolio/-/blob/master/Personal%20Projects/RFM%20analysis%20for%20Customer%20Segmentation/RFM-analysis.ipynb) is available in here. 
 
-**Data**: The data contained time period between 08-10-2019 and 06-02-2021 overall 53895 lines of message data from Whatsapp app. 
+**Data**: The [Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
+
+The Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
+
+Coloums Features: 
+
+* Invoice: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
+* StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.
+* Description: Product (item) name. Nominal.
+* Quantity: The quantities of each product (item) per transaction. Numeric.
+* InvoiceDate: Invice date and time. Numeric. The day and time when a transaction was generated.
+* Price: Unit price. Numeric. Product price per unit in sterling (Â£).
+* CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
+* Country: Country name. Nominal. The name of the country where a customer resides.
 
 **Python version**: 3.7
 
-**Packages**: pandas, numpy, matplotlib, seaborn, wordcloud, PIL, io, sys, glob, os
-
-In the wordcloud part I got inspired from [francisatoyebi's](https://github.com/francisatoyebi/NLP---Whatsapp-Chat) work.
+**Packages**: pandas, numpy, matplotlib, seaborn, datetime
 
 # **Results**
 
-The project determines,
+The customer segments were created based on RFM Analysis.   
 
-* The most frequent messages sent for each person.
-* The distribution of number of messages based on hours and months for each person.
-* The comparison of the amount of messages based on texting hours and months for each person.
-* The Wordcloud image 
+The results
 
-Based on hours, I was the one who send more messages almost every time interval exculiding the interval 2-5 am. 
-So now, it is easy to predict when Rafsan reply back based on this chart! 
-
-The comparison of texting behaviours
-
-![The comparison of texting behaviours ](Images/hours_counts.PNG)
-
-The Wordcloud image 
-
-![The Wordcloud image ](Images/wordcloud.PNG)
+![ ](Images/results.PNG)
 
 
