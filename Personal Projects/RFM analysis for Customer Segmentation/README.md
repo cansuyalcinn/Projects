@@ -33,8 +33,6 @@ Coloums Features:
 
 The customer segments were created based on RFM Analysis.   
 
-The results
-
 ![ ](Images/results.PNG)
 
 
